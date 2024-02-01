@@ -1,6 +1,6 @@
 const about = ()=> {
   return (
-    <h2>this is about page</h2>
+    <h1>This is about page</h1>
   )
 }
 
